@@ -4,7 +4,7 @@
   <title><![CDATA[Andrew's Octopress Blog]]></title>
   <link href="http://silverballs.github.io/atom.xml" rel="self"/>
   <link href="http://silverballs.github.io/"/>
-  <updated>2014-10-14T21:47:08-04:00</updated>
+  <updated>2014-10-15T02:24:10-04:00</updated>
   <id>http://silverballs.github.io/</id>
   <author>
     <name><![CDATA[Andrew Silbersmith]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Todo]]></title>
+    <link href="http://silverballs.github.io/blog/2014/10/15/todo/"/>
+    <updated>2014-10-15T02:16:36-04:00</updated>
+    <id>http://silverballs.github.io/blog/2014/10/15/todo</id>
+    <content type="html"><![CDATA[<h2>Add Post</h2>
+]]></content>
+  </entry>
   
 </feed>
